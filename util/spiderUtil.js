@@ -23,4 +23,4 @@ var spiderUtil = {
     }
 };
 
-module.export = spiderUtil;
+module.exports = spiderUtil;
