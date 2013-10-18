@@ -1,0 +1,22 @@
+{
+    "name": "jobSpider",
+    "description": "A spider to spide the job info from oschina.com",
+    "version": "0.0.1",
+    "author": {
+        "name": "LichK",
+        "email": "sei_fc@126.com"
+    },
+    "devDependencies": {
+        "request": "2.27.0",
+        "mysql": "2.0.0-alpha9",
+        "jsdom": "0.8.6",
+        "jQuery": "1.7.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:LichK/NodejsSpider.git"
+    },
+    "main": "main",
+    "readme": "模块描述",
+    "readmeFilename": "Readme.md"
+}
